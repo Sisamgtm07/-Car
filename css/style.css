@@ -55,10 +55,10 @@ body{
     border-radius: 60px 70px 20px 20px;
     position: absolute;
     bottom: 20%;
-    left: 10%;
+    left: 0%;
     right: 0;
     z-index: 2;
-    animation: car 5s linear infinite;
+    animation: car 10s linear infinite;
     
 }
 .car-body{
